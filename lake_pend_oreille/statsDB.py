@@ -4,9 +4,6 @@ __author__ =
 __date-created__ = 10/19/16
 """
 
-import os
-import sys
-from os import path
 import argparse
 
 VERSION = '0.1.0'

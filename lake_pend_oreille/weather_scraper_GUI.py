@@ -3,15 +3,13 @@
 __author__ = Shannon B., 10/19/16
 """
 
-import os
-import sys
-from os import path
-from tkinter import *
-from tkinter import ttk, messagebox
 import calendar
 import datetime
+from os import path
+from tkinter import *
+from tkinter import ttk
 
-import statsDB
+from lake_pend_oreille import statsDB
 
 __verion__ = '0.1.0'
 
